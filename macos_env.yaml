@@ -56,4 +56,3 @@ dependencies:
       - urllib3==2.2.2
       - w3lib==2.2.1
       - zope-interface==7.0.1
-prefix: /Users/lamluong/miniconda3/envs/scrapy
